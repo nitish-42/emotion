@@ -1,0 +1,14 @@
+EMOTIONS
+Disgust
+Sad
+Neutral
+Sad
+Sad
+Surprise
+Neutral
+Neutral
+Sad
+Sad
+Fear
+Surprise
+Neutral
